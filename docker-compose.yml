@@ -1,0 +1,7 @@
+version: '3'
+services:
+  myfirstapp:
+    image: myfirstapp
+    ports:
+    - "8888:5000"
+    
